@@ -114,7 +114,7 @@ After compling the code above you should see the following in the terminal (depe
 
 ### MATLAB PLOTS
 <img src="img/Mandelbrot.png" alt="Mandelbrot" width="350"/>
-<img src="img/Julia.png" alt="Julia" width="350"/>
+<img src="img/julia.png" alt="Julia" width="350"/>
 
 ---
 ## Contact
